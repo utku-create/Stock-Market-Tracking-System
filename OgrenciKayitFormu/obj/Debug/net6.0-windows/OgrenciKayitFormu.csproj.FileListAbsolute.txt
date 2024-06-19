@@ -1,0 +1,78 @@
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.exe
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.deps.json
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.runtimeconfig.json
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.dll
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.pdb
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.AssemblyReference.cache
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.GenerateResource.cache
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.AssemblyInfoInputs.cache
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.AssemblyInfo.cs
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.CoreCompileInputs.cache
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.dll
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\refint\OgrenciKayitFormu.dll
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.pdb
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.genruntimeconfig.cache
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\ref\OgrenciKayitFormu.dll
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.dll.config
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\utku\source\repos\OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.OgrencGirisFormu.resources
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.CopyComplete
+C:\Users\utku\source\repos\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.OgrenciListesi.resources
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.exe
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.dll.config
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.deps.json
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.runtimeconfig.json
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.dll
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.pdb
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.AssemblyReference.cache
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.OgrencGirisFormu.resources
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.OgrenciListesi.resources
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.GenerateResource.cache
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.AssemblyInfoInputs.cache
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.AssemblyInfo.cs
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.CoreCompileInputs.cache
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.CopyComplete
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.dll
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\refint\OgrenciKayitFormu.dll
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.pdb
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.genruntimeconfig.cache
+C:\Users\utku\Desktop\OgrenciKayitFormu\obj\Debug\net6.0-windows\ref\OgrenciKayitFormu.dll
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.exe
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.dll.config
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.deps.json
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.runtimeconfig.json
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.dll
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\OgrenciKayitFormu.pdb
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.AssemblyReference.cache
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.OgrencGirisFormu.resources
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.OgrenciListesi.resources
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.GenerateResource.cache
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.AssemblyInfoInputs.cache
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.AssemblyInfo.cs
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.CoreCompileInputs.cache
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.csproj.CopyComplete
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.dll
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\refint\OgrenciKayitFormu.dll
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.pdb
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\OgrenciKayitFormu.genruntimeconfig.cache
+C:\Users\utku\Desktop\ \OgrenciKayitFormu\obj\Debug\net6.0-windows\ref\OgrenciKayitFormu.dll
