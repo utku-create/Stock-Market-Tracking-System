@@ -133,8 +133,7 @@ namespace OgrenciKayitFormu
                 ogf.id = 0;
                 ogf.ShowDialog();
                 FillGrid();
-                /*buğrayı çok seviyorum 04.02.2024 çok güzel yazmış her şeyi mükemmel bugün pazar arabicadayız ama insanlar geldi :((( sonra 
-                 sonra :| */
+                
         }
     }
 }
